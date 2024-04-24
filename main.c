@@ -2633,6 +2633,15 @@ void draw_bullet_global()
                     you.bulletSet.live = 0;
                 }
 
+            if (you.bulletSet.dx <= enemy[3].xPos + 0.05 && you.bulletSet.dx >= enemy[3].xPos - 0.05 && enemy[3].live == 1)
+                if (you.bulletSet.dy <= enemy[3].yPos + 0.05 && you.bulletSet.dy >= enemy[3].yPos - 0.05 && enemy[3].live == 1)
+                {
+                    enemy[3].live = 0;
+                    you.bulletSet.anim_bool = 1;
+                    you.bulletSet.live = 0;
+                }
+
+
         }
         else
         {
