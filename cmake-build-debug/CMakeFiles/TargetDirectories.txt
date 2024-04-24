@@ -1,0 +1,3 @@
+D:/ALL MY PROJECTS/Tanchiki/cmake-build-debug/CMakeFiles/Tanchiki.dir
+D:/ALL MY PROJECTS/Tanchiki/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ALL MY PROJECTS/Tanchiki/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2024.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.1/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=C:\Users\dimak\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S "D:\ALL MY PROJECTS\Tanchiki" -B "D:\ALL MY PROJECTS\Tanchiki\cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/ALL MY PROJECTS/Tanchiki/cmake-build-debug
